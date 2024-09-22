@@ -13,10 +13,10 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>About Me</h2>
               <p>
-                I’m THRIGUNA GANJI , currently pursuing a bachelor’s degree in
-                Digital Techniques for Designing and Planning. I have a strong
-                passion for blending creativity with technical expertise to
-                bring ideas to life. My work includes architectural
+                I’m THARUNI BUSHARAJU , currently pursuing a bachelor’s degree
+                in Digital Techniques for Designing and Planning. I have a
+                strong passion for blending creativity with technical expertise
+                to bring ideas to life. My work includes architectural
                 visualizations, product design, and character modeling, always
                 focusing on detail and precision. Through my studies and
                 personal projects, I’m constantly exploring new methods to push
